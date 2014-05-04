@@ -1,0 +1,14 @@
+This is GNU Make Manual in Chinese.
+===================================
+
+翻译：loverszhaokai
+	最新版文档请参考github（https://github.com/loverszhaokai/GNUMakeManual_CN），欢迎大家提出修改意见！谢谢！自由加油！
+	
+原文：https://www.gnu.org/software/make/manual/
+
+参考：
+	1.	徐海兵 http://www.yayu.org/book/gnu_make/
+	2.	陈皓   http://blog.csdn.net/haoel/article/details/2886
+	
+关于本手册的声明：
+	本文瑾献给所有热爱Linux的程序员！本文档版权所有，禁止用于任何商业行为。（向徐海兵致敬！）
