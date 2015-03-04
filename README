@@ -1,14 +1,15 @@
 This is GNU Make Manual in Chinese.
 ===================================
 
-·­Òë£ºloverszhaokai
-	×îĞÂ°æÎÄµµÇë²Î¿¼github£¨https://github.com/loverszhaokai/GNUMakeManual_CN£©£¬»¶Ó­´ó¼ÒÌá³öĞŞ¸ÄÒâ¼û£¡Ğ»Ğ»£¡×ÔÓÉ¼ÓÓÍ£¡
+ç¿»è¯‘ï¼šloverszhaokai
+	æœ€æ–°ç‰ˆæ–‡æ¡£è¯·å‚è€ƒgithubï¼ˆhttps://github.com/loverszhaokai/GNUMakeManual_CNï¼‰ï¼Œæ¬¢è¿å¤§å®¶æå‡ºä¿®æ”¹æ„è§ï¼è°¢è°¢ï¼è‡ªç”±åŠ æ²¹ï¼
 	
-Ô­ÎÄ£ºhttps://www.gnu.org/software/make/manual/
+åŸæ–‡ï¼šhttps://www.gnu.org/software/make/manual/
 
-²Î¿¼£º
-	1.	Ğìº£±ø http://www.yayu.org/book/gnu_make/
-	2.	³Âğ©   http://blog.csdn.net/haoel/article/details/2886
+å‚è€ƒï¼š
+	1.	å¾æµ·å…µ http://www.yayu.org/book/gnu_make/
+	2.	é™ˆçš“   http://blog.csdn.net/haoel/article/details/2886
 	
-¹ØÓÚ±¾ÊÖ²áµÄÉùÃ÷£º
-	±¾ÎÄèªÏ×¸øËùÓĞÈÈ°®LinuxµÄ³ÌĞòÔ±£¡±¾ÎÄµµ°æÈ¨ËùÓĞ£¬½ûÖ¹ÓÃÓÚÈÎºÎÉÌÒµĞĞÎª¡££¨ÏòĞìº£±øÖÂ¾´£¡£©
+å…³äºæœ¬æ‰‹å†Œçš„å£°æ˜ï¼š
+	æœ¬æ–‡ç‘¾çŒ®ç»™æ‰€æœ‰çƒ­çˆ±Linuxçš„ç¨‹åºå‘˜ï¼æœ¬æ–‡æ¡£ç‰ˆæƒæ‰€æœ‰ï¼Œç¦æ­¢ç”¨äºä»»ä½•å•†ä¸šè¡Œä¸ºã€‚ï¼ˆå‘å¾æµ·å…µè‡´æ•¬ï¼ï¼‰
+	
